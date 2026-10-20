@@ -1,0 +1,20 @@
+{
+  "candidate": "leonardo.isidro@utec.edu.pe",
+  "candidate_name": "Leonardo Isidro",
+  "models_and_tools": [
+    {
+      "tool": "Google Antigravity CLI",
+      "model": "Claude Opus 4.6 (Thinking)"
+    }
+  ],
+  "evaluated_file": "candidate_strategy.py",
+  "generated_artifacts": [
+    "generated_artifacts/benchmark_scenarios.py",
+    "generated_artifacts/test_custom_strategy.py"
+  ],
+  "conversation_files": [
+    "ai_conversations/session-01.md"
+  ],
+  "redactions": [],
+  "declaration": "He revisado y asumo la responsabilidad de la entrega final."
+}
